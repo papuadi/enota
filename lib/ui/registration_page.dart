@@ -17,7 +17,7 @@ class RegistrationPage extends StatelessWidget {
         elevation: 0,
         leading: IconButton(
           icon: Icon(
-            Icons.navigate_before,
+            Icons.arrow_back,
             color: Color(0xff00B8E2),
           ),
           onPressed: () => {
